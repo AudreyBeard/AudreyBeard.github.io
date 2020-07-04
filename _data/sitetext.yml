@@ -11,50 +11,50 @@ interests:
     list:
       - title: "Politics of Deep Learning"
         desc: "Like every artifact, deep learning algorithms are political. I'm interested in exploring the politics embodied by such systems, using social critiques of those politics as design parameters, and implementing such politically-aware systems."
-        icon: fa fa-gears #find more at https://fontawesome.com/icons
+        icon: fab fa-gears #find more at https://fontawesome.com/icons
       - title: "Critcal Feminist STEM Education"
         desc: "What does it mean to teach computer science with critical feminist pedagogy? How does this impact the student (both undergrad and graduate), and how does it affect the teacher?"
-        icon: fa fa-transgender-alt       
+        icon: fab fa-transgender-alt       
       - title: "Computer Vision for Conservation Biology"
         desc: "Suppose you have a million images of zebras: how many individual zebras did you photograph? Wildlife censusing is at the core of many conservation biology efforts, and I help theorize ways of making this easy, efficient, and effective at all scales."
-        icon: fa fa-eye
+        icon: fab fa-eye
 
 portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Projects I've worked on:"
     section: portfolio
     
 
 timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
+    title: "Timeline" 
+    text: "What brought me here"
     section: timeline
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Mostly Music"
+        year: "2010-2012"
+        desc: "After graduating high school, I followed my dream of playing music, supporting myself by working at a bicyle shop. I had the opportunity to tour with my band, which introduced me to the west coast and proved to me that touring life wasn't for me. I attended community college on and off, being unsure of what I wanted to do."
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "City Colleges of Chicago"
+        year: "2013-2014"
+        desc: "Working in bike shops for years sparked my interest in figuring out how things fit together. I started taking prerequisites for engineering school. While learning electricity and magnetism in physics class, I found a knack for math and awe at the magic of electronics."
         image: assets/img/timeline/2.jpg
         alt: 
         align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Seattle University"
+        year: "2014-2017"
+        desc: "I transferred to Seattle University to earn a Bachelors of Science in Electrical Engineering. There, I discovered academic research and the fields of machine learning and computer vision."
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Rensselaer Polytechnic Institute"
+        year: "2017-2020"
+        desc: "I'm finishing a Master's in Computer Science at Rensselaer under the guidance of Dr. Charles Stewart. Together, we're doing applied research in computer vision and machine learning to aid conservation biologists in conducting photographic wildlife censusing."
         image: assets/img/timeline/4.jpg
         alt: 
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Excited <br> for What's <br> Next! <br>"
 
 about:
     title: "About Us"
