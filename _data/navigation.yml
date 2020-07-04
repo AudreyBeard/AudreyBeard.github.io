@@ -1,11 +1,11 @@
 nav:
-  - title: "Research Interests"
-    section: interests
+  - title: "Services"
+    section: services
 
   - title: "Portfolio"
     section: portfolio
     
-  - title: "Timeline"
+  - title: "About"
     section: timeline
 
   - title: "Team"
