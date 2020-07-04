@@ -2,7 +2,7 @@ header:
     title: My Name's Audrey!
     text: It's Nice To Meet You
     button: Tell Me More
-    buttonlink: "#services" # "#{section}" or "URL/page link"
+    buttonlink: "#interests" # "#{section}" or "URL/page link"
 
 interests:
     title: "Research Interests"
