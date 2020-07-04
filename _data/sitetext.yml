@@ -87,10 +87,11 @@ team:
     subtext: "I'm queer and transfeminine and my pronouns are they/them/theirs or she/her/hers. I like to rock climb, run, sew, and block print. <br><br> I spend a lot of my free time doing organizing and mobilizing work in my community. I've recently been very invested in building robust support systems for queer, disabled, poor, and POC folks at my school, and resisting increased policing and surveillance. <br><br> If you've got questions about how to navigate interdisciplinary STEM research as a (gender)queer person, please don't hesitate to reach out!"
     section: team
     align: center
-    people:
-      - name: ""
-        role: ""
-        image: assets/img/team/2.jpg
+    image: assets/img/team/2.jpg
+    #people:
+    #  - name: ""
+    #    role: ""
+    #    image: assets/img/team/2.jpg
         #social:
         #  - url: https://twitter.com
         #    icon: fab fa-twitter
