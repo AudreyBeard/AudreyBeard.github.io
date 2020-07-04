@@ -11,13 +11,13 @@ services:
     list:
       - title: "Politics of Deep Learning"
         desc: "Like every artifact, deep learning algorithms are political. I'm interested in exploring the politics embodied by such systems, using social critiques of those politics as design parameters, and implementing such politically-aware systems."
-        icon: fab fa-gears #find more at https://fontawesome.com/icons
+        icon: fa fa-gears #find more at https://fontawesome.com/icons
       - title: "Critcal Feminist STEM Education"
         desc: "What does it mean to teach computer science with critical feminist pedagogy? How does this impact the student (both undergrad and graduate), and how does it affect the teacher?"
-        icon: fab fa-transgender-alt       
+        icon: fa fa-transgender-alt       
       - title: "Computer Vision for Conservation Biology"
         desc: "Suppose you have a million images of zebras: how many individual zebras did you photograph? Wildlife censusing is at the core of many conservation biology efforts, and I help theorize ways of making this easy, efficient, and effective at all scales."
-        icon: fab fa-eye
+        icon: fa fa-eye
 
 portfolio:
     title: "Portfolio"
