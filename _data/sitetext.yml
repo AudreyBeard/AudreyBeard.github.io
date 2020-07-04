@@ -90,6 +90,7 @@ team:
       - name: ""
         role: ""
         image: assets/img/team/1.jpg
+        align: center
         #social:
         #  - url: https://twitter.com
         #    icon: fab fa-twitter
