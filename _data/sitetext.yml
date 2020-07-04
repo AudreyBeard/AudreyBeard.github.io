@@ -1,13 +1,13 @@
 header:
-    title: Welcome to our Studio!
+    title: My Name's Audrey!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
-services:
-    title: "Services"
+interests:
+    title: "Research Interests"
     text: "Lorem ipsum"
-    section: services
+    section: interests
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
