@@ -9,7 +9,7 @@ interests:
     text: "Topics I think about:"
     section: interests
     list:
-      - title: "Politics of<br/>Deep Learning"
+      - title: "Politics of Deep Learning"
         desc: "Like every artifact, deep learning algorithms are political. I'm interested in exploring the politics embodied by such systems, using social critiques of those politics as design parameters, and implementing such politically-aware systems."
         icon: fa fa-gears #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
