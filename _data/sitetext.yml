@@ -56,11 +56,13 @@ timeline:
         align: right
     end: "Excited <br> for What's <br> Next! <br>"
 
+# IDK what this is
 about:
     title: "About Us"
     text: "our story"
     section: about
 
+# IDK what this is
 clients:
     section: clients
     max-height: 100px
@@ -80,49 +82,49 @@ clients:
         logo: assets/img/clients/creative-market.jpg
     
 team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "It Me"
+    text: ""
+    subtext: "I'm queer and transfeminine and my pronouns are they/them/theirs or she/her/hers. I like to rock climb, run, sew, and block print. <br><br> I spend a lot of my free time doing organizing and mobilizing work in my community. I've recently been very invested in building robust support systems for queer, disabled, poor, and POC folks at my school, and resisting increased policing and surveillance. <br><br> If you've got questions about how to navigate interdisciplinary STEM research as a (gender)queer person, please don't hesitate to reach out!"
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: ""
+        role: ""
         image: assets/img/team/1.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/3.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+        #social:
+        #  - url: https://twitter.com
+        #    icon: fab fa-twitter
+        #  - url: https://facebook.com
+        #    icon: fab fa-facebook-f
+        #  - url: https://linkedin.com
+        #    icon: fab fa-linkedin-in
+      #- name: "Larry Parker"
+      #  role: "Lead Marketer"
+      #  image: assets/img/team/2.jpg
+      #  social:
+      #    - url: https://twitter.com
+      #      icon: fab fa-twitter
+      #    - url: https://facebook.com
+      #      icon: fab fa-facebook-f
+      #    - url: https://linkedin.com
+      #      icon: fab fa-linkedin-in
+      #- name: "Diana Perterson"
+      #  role: "Lead Developer"
+      #  image: assets/img/team/3.jpg
+      #  social:
+      #    - url: https://twitter.com
+      #      icon: fab fa-twitter
+      #    - url: https://facebook.com
+      #      icon: fab fa-facebook-f
+      #    - url: https://linkedin.com
+      #      icon: fab fa-linkedin-in
           
 contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contact Me"
+    text: "Shoot me an email!"
     section: contact
     
 footer:
-    legal: "Privacy Policy"
+    #legal: "Privacy Policy"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"  
