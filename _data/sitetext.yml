@@ -88,7 +88,6 @@ team:
     section: team
     people:
       - name: ""
-        align: center
         role: ""
         image: assets/img/team/1.jpg
         #social:
@@ -98,26 +97,6 @@ team:
         #    icon: fab fa-facebook-f
         #  - url: https://linkedin.com
         #    icon: fab fa-linkedin-in
-      #- name: "Larry Parker"
-      #  role: "Lead Marketer"
-      #  image: assets/img/team/2.jpg
-      #  social:
-      #    - url: https://twitter.com
-      #      icon: fab fa-twitter
-      #    - url: https://facebook.com
-      #      icon: fab fa-facebook-f
-      #    - url: https://linkedin.com
-      #      icon: fab fa-linkedin-in
-      #- name: "Diana Perterson"
-      #  role: "Lead Developer"
-      #  image: assets/img/team/3.jpg
-      #  social:
-      #    - url: https://twitter.com
-      #      icon: fab fa-twitter
-      #    - url: https://facebook.com
-      #      icon: fab fa-facebook-f
-      #    - url: https://linkedin.com
-      #      icon: fab fa-linkedin-in
           
 contact:
     title: "Contact Me"

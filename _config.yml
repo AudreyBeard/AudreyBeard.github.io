@@ -17,6 +17,8 @@ remote_theme: AudreyBeard/agency-jekyll-theme
 url    : "AudreyBeard.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
+formspree_endpoint: mnqggdzl
+
 title: Audrey Beard
 email: audrey.s.beard@gmail.com
 description: "Official web site for Audrey Beard"
