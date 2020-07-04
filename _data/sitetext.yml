@@ -4,10 +4,10 @@ header:
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
-interests:
+services:
     title: "Research Interests"
     text: "Lorem ipsum"
-    section: interests
+    section: services
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
