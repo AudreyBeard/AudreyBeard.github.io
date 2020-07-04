@@ -1,18 +1,16 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+title: NetSounds
+subtitle: An art project that lets you hear how a neural network sees
+image: assets/img/portfolio/graph-all-sum-activations-mixing-bowl.jpg
+alt: Audio signal produced by seeing a mixing bowl
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  title: NetSounds
+  subtitle: Neural Network Sonification
+  thumbnail: assets/img/portfolio/graph-all-sum-activations-mixing-bowl-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+[NetSounds](https://github.com/AudreyBeard/netsounds) is a framework for sonifying convolutional neural networks. Based on the NumPy and PyTorch libraries for Python 3, this project uses customized convolutional neural networks and digital signal processing to transform what an AI system "sees" into an acoustic signal. The development required me to write custom classes for each unique network architecture, and relies heavily on broadcasting and vectorized programming on the GPU and CPU to minimize latency.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- May 2019
 

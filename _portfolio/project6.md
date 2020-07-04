@@ -1,18 +1,16 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/06-full.jpg
-alt: 
+title: PlottingTools
+subtitle: Making nice plotting in Python even easier
+image: assets/img/portfolio/plottingtools.png
+alt: A normalized multidimensional bar chart made with one line of Python code
 
 caption:
-  title: Window
-  subtitle: Photography
-  thumbnail: assets/img/portfolio/06-thumbnail.jpg
+  title: PlottingTools
+  subtitle: Easier than MatPlotLib
+  thumbnail: assets/img/portfolio/plottingtools-thumbnail.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+[PlottingTools](https://github.com/AudreyBeard/plottingtools) is a Python 3 wrapper for MatPlotLib, and is designed to make common graphs easy to plot with as few lines as possible. It grew out of my desire to explore data quickly without relying on heavier data structures like Pandas DataFrames, and without reduplicating code. It is available on the Python Package Index as `pip install plottingtools` and enjoys intermittent updates.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
+- January 2019
 

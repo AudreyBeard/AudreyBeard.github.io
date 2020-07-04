@@ -1,18 +1,16 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
-alt: 
+title: AWS-Utils
+subtitle: Making it easier to move data to & from an S3 bucket
+image: assets/img/portfolio/aws-utils-snippet.jpg
+alt: Code snippet of AWS-Utils project
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
+  title: AWS-Utils
+  subtitle: AWS S3 Utilities
+  thumbnail: assets/img/portfolio/aws-utils-snippet-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+[This project](https://github.com/AudreyBeard/aws_utils) is designed to make it easy to do file copying between AWS buckets and local machines in parallel using Python's Multiprocessing library. Using this project, a developer can upload, download, and move huge amounts of files quickly and securely within Python - no command-line usage required (beyond `awscli` setup).
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+- September 2019
 

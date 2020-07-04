@@ -1,18 +1,16 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/04-full.jpg
-alt: 
+title: Tensorface
+subtitle: Turning TensorBoard log files into native Python data structures
+image: assets/img/portfolio/tensorface-snippet.jpg
+alt: Code snippet of Tensorface project superimposed over TensorBoard plots
 
 caption:
-  title: Lines
-  subtitle: Branding
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  title: Tensorface
+  subtitle: Python interface for TensorBoard logs
+  thumbnail: assets/img/portfolio/tensorface-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+[Tensorface](https://github.com/AudreyBeard/tensorface) is a set of tools for interacting with Tensorboard log files. Since the log files are designed for reading by the Tensorboard server, they are somewhat clumsy to work with. This project uses custom Python classes to expose the data encoded within a log file as native Python data structures, like dictionaries and lists.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+- November 2019
 
