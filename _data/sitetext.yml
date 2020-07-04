@@ -14,10 +14,10 @@ interests:
         icon: fa fa-gears #find more at https://fontawesome.com/icons
       - title: "Critcal Feminist STEM Education"
         desc: "What does it mean to teach computer science with critical feminist pedagogy? How does this impact the student (both undergrad and graduate), and how does it affect the teacher?"
-        icon: fas fa-transgender-alt       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fa fa-transgender-alt       
+      - title: "Computer Vision for Conservation Biology"
+        desc: "Suppose you have a million images of zebras: how many individual zebras did you photograph? Wildlife censusing is at the core of many conservation biology efforts, and I help theorize ways of making this easy, efficient, and effective at all scales."
+        icon: fa fa-eye
 
 portfolio:
     title: "Portfolio"
