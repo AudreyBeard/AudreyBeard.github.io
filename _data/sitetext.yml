@@ -33,25 +33,25 @@ timeline:
       - title: "Mostly Music"
         year: "2010-2012"
         desc: "After graduating high school, I followed my dream of playing music, supporting myself by working at a bicyle shop. I had the opportunity to tour with my band, which introduced me to the west coast and proved to me that touring life wasn't for me. I attended community college on and off, being unsure of what I wanted to do."
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/idaho-falls-show.jpg
         alt: 
         align: left
       - title: "City Colleges of Chicago"
         year: "2013-2014"
         desc: "Working in bike shops for years sparked my interest in figuring out how things fit together. I started taking prerequisites for engineering school. While learning electricity and magnetism in physics class, I found a knack for math and awe at the magic of electronics."
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/ccc-logo.jpg
         alt: 
         align: right
       - title: "Seattle University"
         year: "2014-2017"
         desc: "I transferred to Seattle University to earn a Bachelors of Science in Electrical Engineering. There, I discovered academic research and the fields of machine learning and computer vision."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/seattleu-seal.png
         alt: image alt text
         #align: #default is left       
       - title: "Rensselaer Polytechnic Institute"
         year: "2017-2020"
         desc: "I'm finishing a Master's in Computer Science at Rensselaer under the guidance of Dr. Charles Stewart. Together, we're doing applied research in computer vision and machine learning to aid conservation biologists in conducting photographic wildlife censusing."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/rpi-seal.png
         alt: 
         align: right
     end: "Excited <br> for What's <br> Next! <br>"
