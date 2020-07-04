@@ -57,10 +57,10 @@ timeline:
     end: "Excited <br> for What's <br> Next! <br>"
 
 # IDK what this is
-about:
-    title: "About Us"
-    text: "our story"
-    section: about
+#about:
+#    title: "About Us"
+#    text: "our story"
+#    section: about
 
 # IDK what this is
 #clients:
@@ -90,7 +90,7 @@ team:
     people:
       - name: ""
         role: ""
-        image: assets/img/team/1.jpg
+        image: assets/img/team/2.jpg
         #social:
         #  - url: https://twitter.com
         #    icon: fab fa-twitter
