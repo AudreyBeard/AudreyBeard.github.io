@@ -12,7 +12,7 @@ nav:
     section: team
 
   - title: "Contact"
-    section: contact
+    url: mailto:contact_audrey@pm.me
 
   - title: "CV"
     url: https://github.com/AudreyBeard/AudreyBeard.github.io/raw/master/assets/Beard_CV.pdf

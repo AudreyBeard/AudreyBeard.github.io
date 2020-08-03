@@ -98,10 +98,10 @@ team:
         #  - url: https://linkedin.com
         #    icon: fab fa-linkedin-in
           
-contact:
-    title: "Contact Me"
-    text: ""
-    section: contact
+#contact:
+#    title: "Contact Me"
+#    text: ""
+#    section: contact
     
 footer:
     #legal: "Privacy Policy"
