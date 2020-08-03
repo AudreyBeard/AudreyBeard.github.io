@@ -101,7 +101,7 @@ team:
 contact:
     title: "Contact Me"
     text: "I'm still working on my contact form, so in the meantime, just email `contact_audrey@pm.me`"
-#    section: contact
+    section: contact
     
 footer:
     #legal: "Privacy Policy"
