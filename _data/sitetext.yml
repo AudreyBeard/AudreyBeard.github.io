@@ -98,9 +98,9 @@ team:
         #  - url: https://linkedin.com
         #    icon: fab fa-linkedin-in
           
-#contact:
-#    title: "Contact Me"
-#    text: ""
+contact:
+    title: "Contact Me"
+    text: "I'm still working on my contact form, so in the meantime, just email `contact_audrey@pm.me`"
 #    section: contact
     
 footer:
