@@ -114,6 +114,8 @@ footer:
         icon: "fab fa-linkedin-in"
       - url: https://github.com/AudreyBeard
         icon: "fab fa-github"
+      - url: https://calendly.com/audreybeard/
+        icon: "fas fa-calendar-plus"
       #- url: https://instagram.com
       #  icon: "fab fa-instagram"
 
