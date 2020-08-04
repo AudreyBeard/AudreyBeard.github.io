@@ -1,6 +1,9 @@
 # Changelog
+## 2020-08-04
+- Trying to center my image again!
+
 ## 2020-08-03
-- trying
+- trying to get the Contact form working
 
 # [Agency Jekyll Theme](https://github.com/raviriley/agency-jekyll-theme) Starter Template
 [![RubyGems Downloads](https://img.shields.io/gem/dt/jekyll-agency.svg)](https://rubygems.org/gems/jekyll-agency)
