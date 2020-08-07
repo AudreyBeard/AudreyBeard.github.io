@@ -14,5 +14,8 @@ nav:
   - title: "Contact"
     section: contact
 
-  - title: "CV"
-    url: https://github.com/AudreyBeard/AudreyBeard.github.io/raw/master/assets/Beard_CV.pdf
+  - title: "Resume (Short)"
+    url: https://github.com/AudreyBeard/AudreyBeard.github.io/raw/master/assets/Audrey_Beard_Resume_Portfolio.pdf
+
+  - title: "CV (Long)"
+    url: https://github.com/AudreyBeard/AudreyBeard.github.io/raw/master/assets/Audrey_Beard_CV.pdf
