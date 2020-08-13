@@ -50,7 +50,7 @@ timeline:
         #align: #default is left       
       - title: "Rensselaer Polytechnic Institute"
         year: "2017-2020"
-        desc: "I'm finishing a Master's in Computer Science at Rensselaer under the guidance of Dr. Charles Stewart. Together, we're doing applied research in computer vision and machine learning to aid conservation biologists in conducting photographic wildlife censusing."
+        desc: "I'm finishing a Master's in Computer Science at Rensselaer doing applied research in computer vision and machine learning to aid conservation biologists in conducting photographic wildlife censusing. I've been focusing on making it easier to label new images."
         image: assets/img/timeline/rpi-seal.png
         alt: 
         align: right
