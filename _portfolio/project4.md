@@ -1,7 +1,7 @@
 ---
 title: Tensorface
 subtitle: Turning TensorBoard log files into native Python data structures
-image: assets/img/portfolio/tensorface-snippet.png
+image: assets/img/portfolio/tensorface-snippet.jpg
 alt: Code snippet of Tensorface project superimposed over TensorBoard plots
 
 caption:
