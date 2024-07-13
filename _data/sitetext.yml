@@ -50,7 +50,7 @@ timeline:
         #align: #default is left       
       - title: "Rensselaer Polytechnic Institute"
         year: "2017-2020"
-        desc: "I graduated with a Master's in Computer Science at Rensselaer, where I did applied research in computer vision and machine learning to aid conservation biologists in conducting photographic wildlife censusing. At RPI, I discovered a strict mathematical relationship between human effort and label accuracy for computer-assisted data labeling efforts."
+        desc: "I graduated with a Master's in Computer Science at Rensselaer, where I applied computer vision and machine learning to aid conservation biologists in conducting photographic wildlife censusing. At RPI, I discovered a strict mathematical relationship between human effort and label accuracy for computer-assisted data labeling efforts."
         image: assets/img/timeline/rpi-seal.png
         alt: 
         align: right
