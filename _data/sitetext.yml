@@ -17,7 +17,7 @@ services:
         icon: fas fa-pen-paintbrush #find more at https://fontawesome.com/icons
       - title: "Ethical AI"
         desc: "What makes specific AI applications 'ethical?' There are countless answers to this question, ranging from groundbreaking to regressive. As a researcher and engineer with almost a decade of experience in the space, I assert that sometimes the best solution doesn't use AI at all. I believe we can identify those instances to preserve human dignity while also driving innovation."
-        icon: fas fa-scale-unbalanced       
+        icon: fas fa-balance-scale-left       
 
 portfolio:
     title: "Portfolio"
