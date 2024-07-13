@@ -5,8 +5,8 @@ header:
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
-    title: "Research Interests"
-    text: "Topics I think about:"
+    title: "Expertise"
+    text: "Things I focus on"
     section: services
     list:
       - title: "ML Tooling for<br>Film Production"
@@ -16,12 +16,12 @@ services:
         desc: "Artists and other creatives are rightfully concerned about the rise of AI in their industries and workflows. As a Machine Learning Engineer who's also an artist myself, I'm interested in pushing the boundaries of what artists can do, without crossing our own boundaries. Let's build something together!"
         icon: fas fa-paint-brush #find more at https://fontawesome.com/icons
       - title: "Ethical AI"
-        desc: "What makes specific AI applications 'ethical?' There are countless answers to this question, ranging from groundbreaking to regressive. As a researcher and engineer with almost a decade of experience in the space, I assert that sometimes the best solution doesn't use AI at all. I believe we can identify those instances to preserve human dignity while also driving innovation."
+        desc: "What makes specific AI applications 'ethical?' There are countless answers to this question, ranging from groundbreaking to regressive. As a researcher and engineer with almost a decade of experience in the space, I assert that sometimes the best solution doesn't use AI at all. I believe we can identify those cases to preserve human dignity while driving innovation."
         icon: fas fa-balance-scale-left       
 
 portfolio:
-    title: "Portfolio"
-    text: "Projects I've worked on:"
+    title: "Public Portfolio"
+    text: "Projects I've publicly worked on:"
     section: portfolio
     
 
@@ -54,6 +54,12 @@ timeline:
         image: assets/img/timeline/rpi-seal.png
         alt: 
         align: right
+      - title: "Disney's StudioLAB"
+        year: "2020-Present"
+        desc: "The StudioLAB is part of The Walt Disney Studios' Research & Innovation wing. As a Sr. Machine Learning Engineer, I focus on building innovative and scalable tooling for pilot deployment at all stages of the film and episodic production & distribution pipeline."
+        image: assets/img/timeline/disney-studiolab.jpg
+        alt: 
+        align: left
     end: "Excited <br> for What's <br> Next! <br>"
 
 # IDK what this is
