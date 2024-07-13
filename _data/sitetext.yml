@@ -14,7 +14,7 @@ services:
         icon: fas fa-video #camera-movie #fa-video #find more at https://fontawesome.com/icons
       - title: "Artist-controlled deployments"
         desc: "Artists and other creatives are rightfully concerned about the rise of AI in their industries and workflows. As a Machine Learning Engineer who's also an artist myself, I'm interested in pushing the boundaries of what artists can do, without crossing our own boundaries. Let's build something together!"
-        icon: fas fa-paintbrush #find more at https://fontawesome.com/icons
+        icon: fas fa-paint-brush #find more at https://fontawesome.com/icons
       - title: "Ethical AI"
         desc: "What makes specific AI applications 'ethical?' There are countless answers to this question, ranging from groundbreaking to regressive. As a researcher and engineer with almost a decade of experience in the space, I assert that sometimes the best solution doesn't use AI at all. I believe we can identify those instances to preserve human dignity while also driving innovation."
         icon: fas fa-balance-scale-left       
