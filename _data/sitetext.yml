@@ -11,7 +11,7 @@ services:
     list:
       - title: "ML Tooling for<br>Film Production"
         desc: "The film industry is constantly pushing the boundaries of audiovisual storytelling, and deals with staggering amounts of data on a daily basis. With thoughtful design and scalable architecture, we can build sustainable infrastructure for creatives and operators at all points of the film production pipeline."
-        icon: fas fa-camera-movie #fa-video #find more at https://fontawesome.com/icons
+        icon: fas fa-video #camera-movie #fa-video #find more at https://fontawesome.com/icons
       - title: "Artist-controlled deployments"
         desc: "Artists and other creatives are rightfully concerned about the rise of AI in their industries and workflows. As a Machine Learning Engineer who's also an artist myself, I'm interested in pushing the boundaries of what artists can do, without crossing our own boundaries. Let's build something together!"
         icon: fas fa-pen-paintbrush #find more at https://fontawesome.com/icons
