@@ -9,15 +9,15 @@ services:
     text: "Topics I think about:"
     section: services
     list:
-      - title: "Politics of <br> Deep Learning"
-        desc: "Like every artifact, deep learning algorithms are political. I'm interested in exploring the politics embodied by such systems, using social critiques of those politics as design parameters, and implementing such politically-aware systems."
-        icon: fas fa-cogs #find more at https://fontawesome.com/icons
-      - title: "Critical Feminist <br> STEM Education"
-        desc: "What does it mean to teach computer science with critical feminist pedagogy? How does this impact the student (both undergrad and graduate), and how does it affect the teacher?"
-        icon: fas fa-transgender-alt       
-      - title: "Computer Vision for <br> Conservation Biology"
-        desc: "Suppose you have a million images of zebras: how many individual zebras did you photograph? Wildlife censusing is at the core of many conservation biology efforts, and I help theorize ways of making this easy, efficient, and effective at all scales."
-        icon: fas fa-eye
+      - title: "ML Tooling for<br>Film Production"
+        desc: "The film industry is constantly pushing the boundaries of audiovisual storytelling, and deals with staggering amounts of data on a daily basis. With thoughtful design and scalable architecture, we can build sustainable infrastructure for creatives and operators at all points of the film production pipeline."
+        icon: fas fa-camera-movie #fa-video #find more at https://fontawesome.com/icons
+      - title: "Artist-controlled deployments"
+        desc: "Artists and other creatives are rightfully concerned about the rise of AI in their industries and workflows. As a Machine Learning Engineer who's also an artist myself, I'm interested in pushing the boundaries of what artists can do, without crossing our own boundaries. Let's build something together!"
+        icon: fas fa-pen-paintbrush #find more at https://fontawesome.com/icons
+      - title: "Ethical AI"
+        desc: "What makes specific AI applications 'ethical?' There are countless answers to this question, ranging from groundbreaking to regressive. As a researcher and engineer with almost a decade of experience in the space, I assert that sometimes the best solution doesn't use AI at all. I believe we can identify those instances to preserve human dignity while also driving innovation."
+        icon: fas fa-scale-unbalanced       
 
 portfolio:
     title: "Portfolio"
