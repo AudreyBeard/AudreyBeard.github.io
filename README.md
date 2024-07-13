@@ -1,4 +1,7 @@
 # Changelog
+## 2024-07-13
+- update 'research interests'
+
 ## 2020-08-04
 - Trying to center my image again!
 
