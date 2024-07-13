@@ -56,7 +56,7 @@ timeline:
         align: right
       - title: "Disney's StudioLAB"
         year: "2020-Present"
-        desc: "The StudioLAB is part of The Walt Disney Studios' Research & Innovation wing. As a Sr. Machine Learning Engineer, I focus on building innovative and scalable tooling for pilot deployment at all stages of the film and episodic production & distribution pipeline."
+        desc: "The StudioLAB is part of The Walt Disney Studios' Research & Innovation wing. As a Senior Machine Learning Engineer, I focus on building innovative and scalable tooling for pilot deployment at all stages of the film and episodic production & distribution pipeline."
         image: assets/img/timeline/disney-studiolab.jpg
         alt: 
         align: left
