@@ -16,7 +16,7 @@ services:
         desc: "Artists and other creatives are rightfully concerned about the rise of AI in their industries and workflows. As a Machine Learning Engineer who's also an artist myself, I'm interested in pushing the boundaries of what artists can do, without crossing our own boundaries. Let's build something together!"
         icon: fas fa-paint-brush #find more at https://fontawesome.com/icons
       - title: "Ethical AI"
-        desc: "What makes specific AI applications 'ethical?' There are countless answers to this question, ranging from groundbreaking to regressive. As a researcher and engineer with almost a decade of experience in the space, I assert that sometimes the best solution doesn't use AI at all. I believe we can identify those cases to preserve human dignity while driving innovation."
+        desc: "What makes specific AI applications 'ethical?' There are countless answers to this question, ranging from groundbreaking to regressive. As a researcher and engineer with a decade of experience in the space, I assert that sometimes the best solution doesn't use AI at all. I believe we can identify those cases to preserve human dignity while driving innovation."
         icon: fas fa-balance-scale-left       
 
 portfolio:
@@ -50,13 +50,13 @@ timeline:
         #align: #default is left       
       - title: "Rensselaer Polytechnic Institute"
         year: "2017-2020"
-        desc: "I graduated with a Master's in Computer Science at Rensselaer, where I applied computer vision and machine learning to aid conservation biologists in conducting photographic wildlife censusing. At RPI, I discovered a strict mathematical relationship between human effort and label accuracy for computer-assisted data labeling efforts."
+        desc: "I graduated with a Master's in Computer Science at Rensselaer, where I applied computer vision and machine learning to aid conservation biologists in conducting photographic wildlife censusing. At RPI, I discovered a strict mathematical relationship between human effort and ideal label accuracy for computer-assisted data labeling efforts."
         image: assets/img/timeline/rpi-seal.png
         alt: 
         align: right
-      - title: "Disney's StudioLAB"
+      - title: "Disney Studios"
         year: "2020-Present"
-        desc: "The StudioLAB is part of The Walt Disney Studios' Research & Innovation wing. As a Senior Machine Learning Engineer, I focus on building innovative and scalable tooling for pilot deployment at all stages of the film and episodic production & distribution pipeline."
+        desc: "I work on applied research engineering for The Walt Disney Studios, inventing unique tools to help make your favorite movies and shows. As a Senior Machine Learning Engineer, I focus on building innovative and scalable tooling for pilot deployment at all stages of the film and episodic production & distribution pipeline"
         image: assets/img/timeline/disney-studiolab.jpg
         alt: 
         align: left
@@ -88,7 +88,7 @@ timeline:
 #        logo: assets/img/clients/creative-market.jpg
     
 team:
-    title: "It Me"
+    title: "Who I Am"
     text: ""
     subtext: "Audrey is a Senior Machine Learning Engineer who specializes in building AI-enabled tooling for film production and delivery pipelines"
     section: team
