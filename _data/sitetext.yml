@@ -57,7 +57,7 @@ timeline:
       - title: "Disney Studios"
         year: "2020-Present"
         desc: "I work on applied research engineering for The Walt Disney Studios, inventing unique tools to help make your favorite movies and shows. As a Senior Machine Learning Engineer, I focus on building innovative and scalable tooling for pilot deployment at all stages of the film and episodic production & distribution pipeline"
-        image: assets/img/timeline/disney-studiolab.jpg
+        image: assets/img/timeline/disney-studio-tech.png
         alt: 
         align: left
     end: "Excited <br> for What's <br> Next! <br>"
